@@ -1,1 +1,3 @@
-# Analise_Previsao_Marketing_Banc-rio
+# Analise_Previsao_Marketing_Bancario
+
+Este datase está relacionado com campanhas de marketing direto realizadas por uma instituição bancária portuguesa. O foco das campanhas era a promoção de depósitos a prazo, e as interações com os clientes eram feitas através de chamadas telefónicas. Muitas vezes, mais de um contacto era necessário para avaliar se o cliente iria subscrever o produto ou não. Através deste conjunto de dados, é possível analisar o comportamento dos clientes e identificar fatores que influenciam a decisão de subscrição do produto, com o objetivo de otimizar as futuras campanhas de marketing e melhorar a eficácia da abordagem. Utilizando métodos de Análise Exploratória de Dados (EDA) e Regressão Logística, buscamos identificar padrões, entender o comportamento dos clientes e prever a probabilidade de adesão, auxiliando na tomada de decisões estratégicas.
